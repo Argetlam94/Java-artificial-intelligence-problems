@@ -1,0 +1,12 @@
+/**
+ * Solution to the N-queens puzzle with MinConflict algorithm.
+ * The program works for puzzles that are significantly large as requested in
+ * the task. I have tried to implement quite a lot optimization, so that we can
+ * have good execution times for big input. For example, if we want to solve a 
+ * board with size 5000 x 5000 it will take between 190 and 280 seconds. I've tested
+ * it for 10k x 10k board and it takes about half an hour. The key in my optimization
+ * is using only one dimensional arrays - not even ArrayLists so that we can skip the
+ * unwanted AutoBoxing and AutoUnboxing.
+ * 
+ * @author Dimitar Kermedchiev
+ */
