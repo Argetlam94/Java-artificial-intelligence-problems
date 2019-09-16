@@ -1,0 +1,11 @@
+/**
+ * Solution to the TicTacToe game with MiniMax algorithm with Alpha–beta pruning.
+ * The task was not as easy as I thought. I did some research and then implemented 
+ * this rather "heavy" solution. I tried to keep it as much OOP-oriented, as possible.
+ * There are quite a lot "magic" number, but this time I decided not to  handle them
+ * as constants to keep the code simpler for me. There is an option if the player wants
+ * to be first or second. As far as I tested, the bot cannot be defeated and the program
+ * works fast enough.
+ * 
+ * @author Dimitar Kermedchiev
+ */
