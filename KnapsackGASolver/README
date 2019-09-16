@@ -1,0 +1,11 @@
+/**
+ * Solution to the Max-cost-Backpack problem with Genetic algorithm.
+ * This task was very difficult for me. I tried to implement the pseudo code given
+ * on the exercise as close as possible. A population is represented with ArrayList
+ * of individuals, which are stored as arrays of integers. This is not optimal but
+ * is easy to work with. Because there are so many random driven changes, the solution
+ * is not always the best, but in more iterations the program should find the best
+ * solution a couple of times.
+ * 
+ * @author Dimitar Kermedchiev
+ */
