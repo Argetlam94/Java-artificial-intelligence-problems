@@ -1,0 +1,10 @@
+/**
+ * Solution to the Sliding Blocks puzzle with A* and Manhattan distances heuristic.
+ * The program works for puzzles that are of type: 3, 8, 15 and 24. Not for larger.
+ * All puzzles of type 3 and 8 that are solvable will get their optimal solution in less than a second.
+ * Same implies for some easy 15 and 24 puzzles. For those of them that need more steps for the solution,
+ * the program might take quite a long time or even the VM could run out of memory. As this problem was
+ * discussed I decided to leave the implementation on this state.
+ * 
+ * @author Dimitar Kermedchiev
+ */
