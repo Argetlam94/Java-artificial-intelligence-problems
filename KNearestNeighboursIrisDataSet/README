@@ -1,0 +1,13 @@
+/**
+ * A variant of the кNearestNeighbours algorithm for the Iris Data Set.
+ * I was not presented on the exercise where this algorithm was explained, 
+ * but after some discussions with colleagues that were there, I think I got the idea.
+ * This task is definitely not OOP-structured, but that is on purpose. I think that
+ * this solution is better, because it is direct and that makes it far easier - no need
+ * of implementing middle-layer access methods. However, I tried to make it as generalized
+ * as I could. If we want to change the data set, we just need to change the values of
+ * some constants, as long as its the same type. The solution is not optimal, because
+ * there will be quite a lot of auto-boxing, but ArrayList was cleaner to use in this case.
+ * 
+ * @author Dimitar Kermedchiev
+ */
