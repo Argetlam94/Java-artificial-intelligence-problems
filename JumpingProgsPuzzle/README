@@ -1,0 +1,6 @@
+/*
+ * Author: 	Dimitar Kermedchiev
+ * Subject:	Solution to the jumping frog puzzle with DFS
+ * Other:	This is the variant which works for significant 
+ * 			large n, but at the cost of a lot of memory
+ */
